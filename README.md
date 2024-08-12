@@ -1,2 +1,1 @@
-# Image-filtering
-Basic applying of filters
+# Image filtering
